@@ -12,7 +12,7 @@ node app.js
 
 # :hammer: Funcionalidades: 
 - `Funcionalidade 1`: Criar uma conta no Git
-- `Funcionalidade 2`: Readme
+- `Funcionalidade 2`: Readme :)
 
 
 # Autores
