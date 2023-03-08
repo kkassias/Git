@@ -12,10 +12,12 @@ node app.js
 
 # :hammer: Funcionalidades: 
 - `Funcionalidade 1`: Criar uma conta no Git
-- `Funcionalidade 2`: Readme :)
+- `Funcionalidade 2`: Readme
 
 
 # Autores
 
 | [<img src="https://user-images.githubusercontent.com/126909200/222809085-98927e8c-57ce-481e-bf0b-359e7b454229.jpeg" width=115><br><sub>Kássia C. Souza da Silva</sub>](https://github.com/kkassias) |  
 | :---: | 
+
+Teste atualização por linha de comando 
