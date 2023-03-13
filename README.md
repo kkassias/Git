@@ -1,6 +1,10 @@
-<h1> Sistema de Teste do Git </h1>
+<h1> Teste do Git </h1>
 
 ![git](https://user-images.githubusercontent.com/126909200/222807404-0766a596-99fe-48dc-b814-64e1970d1ed2.png)
+
+```
+Projeto realizado durante o curso sobre Git e Github da Alura
+```
 
 > :construction: Status do projeto: Em desenvolvimento :construction:
 
